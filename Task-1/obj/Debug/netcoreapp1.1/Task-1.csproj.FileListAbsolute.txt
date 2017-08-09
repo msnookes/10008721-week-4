@@ -1,0 +1,8 @@
+C:\Users\10008721\Desktop\Task-1\bin\Debug\netcoreapp1.1\Task-1.deps.json
+C:\Users\10008721\Desktop\Task-1\bin\Debug\netcoreapp1.1\Task-1.runtimeconfig.json
+C:\Users\10008721\Desktop\Task-1\bin\Debug\netcoreapp1.1\Task-1.runtimeconfig.dev.json
+C:\Users\10008721\Desktop\Task-1\bin\Debug\netcoreapp1.1\Task-1.dll
+C:\Users\10008721\Desktop\Task-1\bin\Debug\netcoreapp1.1\Task-1.pdb
+C:\Users\10008721\Desktop\Task-1\obj\Debug\netcoreapp1.1\Task-1.AssemblyInfo.cs
+C:\Users\10008721\Desktop\Task-1\obj\Debug\netcoreapp1.1\Task-1.dll
+C:\Users\10008721\Desktop\Task-1\obj\Debug\netcoreapp1.1\Task-1.pdb

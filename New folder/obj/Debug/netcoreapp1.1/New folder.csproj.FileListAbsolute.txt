@@ -1,0 +1,8 @@
+C:\Users\10008721\Desktop\New folder\bin\Debug\netcoreapp1.1\New folder.deps.json
+C:\Users\10008721\Desktop\New folder\bin\Debug\netcoreapp1.1\New folder.runtimeconfig.json
+C:\Users\10008721\Desktop\New folder\bin\Debug\netcoreapp1.1\New folder.runtimeconfig.dev.json
+C:\Users\10008721\Desktop\New folder\bin\Debug\netcoreapp1.1\New folder.dll
+C:\Users\10008721\Desktop\New folder\bin\Debug\netcoreapp1.1\New folder.pdb
+C:\Users\10008721\Desktop\New folder\obj\Debug\netcoreapp1.1\New folder.AssemblyInfo.cs
+C:\Users\10008721\Desktop\New folder\obj\Debug\netcoreapp1.1\New folder.dll
+C:\Users\10008721\Desktop\New folder\obj\Debug\netcoreapp1.1\New folder.pdb
